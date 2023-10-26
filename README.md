@@ -8,9 +8,9 @@ Este projeto foi desenvolvido com o propósito de cadastrar os usuários em um b
 
 ![tela-cadastro-principal](https://github.com/YannickRambo/SistemaCadastro/assets/103066296/251d10a9-be72-4d60-a7c9-80102e13cce6)
 
-![tela-listagem](https://github.com/YannickRambo/SistemaCadastro/assets/103066296/df525e95-a485-4395-90f4-433b100216dd)
-
 ![tela-cadastro](https://github.com/YannickRambo/SistemaCadastro/assets/103066296/ce812b23-3c54-4cab-aa3d-340a34bd15e4)
+
+![tela-listagem](https://github.com/YannickRambo/SistemaCadastro/assets/103066296/df525e95-a485-4395-90f4-433b100216dd)
 
 ## Tecnologias utilizadas:
 
